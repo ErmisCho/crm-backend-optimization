@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.venv/
+env/
+venv/
+
+# Django DB (if ever used SQLite)
+*.sqlite3
+
+# Logs / Reports
+*.log
+reports/*.log
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db

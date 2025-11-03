@@ -1,0 +1,2 @@
+ts,engine,method,n_req,addr,users,rels,gen_s,copy_s,total_s
+2025-11-02 16:18:14,postgresql,copy_stream,3000000,3000000,3000000,3000000,473.8,143.3,617.1
